@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life</title>
+    <title>Delta Demo</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -61,31 +61,20 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Delta Demo.</h2>
 
 <div class="intro">
-    <p>This is a really cool web version of Conway's famous Game Of
-        Life. The Game of Life is a cellular automaton devised by the British
-        mathematician John Horton Conway way back in 1970.</p>
+    <p>Hello Delta Dental Demo.</p>
 
-    <p>The universe of the Game of Life is an infinite two-dimensional
-        orthogonal grid of square cells, each of which is in one of two possible
-        states, live or dead. Every cell interacts with its eight neighbors,
-        which are the cells that are directly horizontally, vertically, or
-        diagonally adjacent. At each step in time, the following transitions
-        occur:
+    <p>Test Demo
     <ul>
-        <li>Any live cell with fewer than two live neighbours dies, as if
-            caused by underpopulation.
+        <li>Test
         </li>
-        <li>Any live cell with more than three live neighbours dies, as if
-            by overcrowding.
+        <li>Test
         </li>
-        <li>Any live cell with two or three live neighbours lives on to
-            the next generation.
+        <li>Test
         </li>
-        <li>Any dead cell with exactly three live neighbours becomes a
-            live cell.
+        <li>Test
         </li>
     </ul>
     </p>
