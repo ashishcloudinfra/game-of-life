@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>Delta Demo</title>
+    <title>Ashish Demo</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -61,10 +61,10 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Delta Demo.</h2>
+<h2>Welcome to Ashish Demo.</h2>
 
 <div class="intro">
-    <p>Hello Delta Dental Demo.</p>
+    <p>Ashish Demo.</p>
 
     <p>Test Demo
     <ul>
