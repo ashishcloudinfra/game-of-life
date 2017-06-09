@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>Delta Demo</title>
+    <title>Test Demo</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
