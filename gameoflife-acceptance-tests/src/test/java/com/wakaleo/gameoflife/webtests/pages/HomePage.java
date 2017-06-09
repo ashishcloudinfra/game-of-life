@@ -17,5 +17,6 @@ public class HomePage extends GameOfLifePage {
 
     public void clickOnNewGameLink() {
         newGameLink.click();
+        Sytem.out.println("Helll testing");
     }
 }
